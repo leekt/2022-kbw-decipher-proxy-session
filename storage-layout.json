@@ -3,25 +3,33 @@
     {
       "astId": 21574,
       "contract": "src/Contract.sol:Contract",
-      "label": "owner",
+      "label": "timestamp",
       "offset": 0,
       "slot": "0",
-      "type": "t_address"
+      "type": "t_uint256"
     },
     {
       "astId": 21576,
       "contract": "src/Contract.sol:Contract",
-      "label": "count",
+      "label": "owner",
       "offset": 0,
       "slot": "1",
-      "type": "t_uint256"
+      "type": "t_address"
     },
     {
       "astId": 21578,
       "contract": "src/Contract.sol:Contract",
-      "label": "version",
+      "label": "count",
       "offset": 0,
       "slot": "2",
+      "type": "t_uint256"
+    },
+    {
+      "astId": 21580,
+      "contract": "src/Contract.sol:Contract",
+      "label": "version",
+      "offset": 0,
+      "slot": "3",
       "type": "t_uint256"
     }
   ],
