@@ -23,6 +23,14 @@
       "offset": 0,
       "slot": "2",
       "type": "t_uint256"
+    },
+    {
+      "astId": 21580,
+      "contract": "src/Contract.sol:Contract",
+      "label": "timestamp",
+      "offset": 0,
+      "slot": "3",
+      "type": "t_uint256"
     }
   ],
   "types": {
